@@ -1,5 +1,6 @@
 sources:
   - name: raw
+    database: beaming-might-485522-u0
     description: Raw taxi trip data from NYC TLC
     schema: 
         ny_taxi
