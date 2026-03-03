@@ -1,6 +1,4 @@
-Here is the simplified, text-only version of your README.
 
----
 
 # NYC Taxi Data - Analytics Engineering with dbt
 
